@@ -6,8 +6,8 @@
 ## Bem-vindo! 👋
 Obrigado por ver meu projeto!
 
-![Visualização do site Meu Portifólio](./github/badges/badges.pdf.png)
-![Visualização do site Meu Portifólio](./github/badges/badges-2.pdf.png)
+![Visualização do site Meu Portifólio](./github/badges/badges.png)
+![Visualização do site Meu Portifólio](./github/badges/badges-2.png)
 
 ## Descrição do projeto 😀
 Esse projeto aborda sobre um portifólio do funcionário Pedro de Carvalho, fiz ele com base nos dados transmitidos pelo Alura.
