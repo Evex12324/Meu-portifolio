@@ -6,6 +6,7 @@
 ## Bem-vindo! 👋
 Obrigado por ver meu projeto!
 
+## Badges! 🙃​
 ![Visualização do site Meu Portifólio](./github/badges/badges.png)
 ![Visualização do site Meu Portifólio](./github/badges/badges-2.png)
 
