@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    scroll-behavior: smooth;
+}
+
+main {
+    max-width: 850px;
+    margin: auto;
+}
+
+main header nav {
+    display: flex;
+    gap: 50px;
+}
+
+main header nav a {
+    color: #22D4FD;
+    padding: 7px 17px;
+    transition: 0.3s;
+}
+
+main header nav a:hover {
+    color: black;
+    background-color: #22D4FD;
+    border-radius: 35px;
+}
+
+main section {
+    display: flex;
+    align-items: center;
+    gap: 7%;
+}
+
+main section .conteudo h1 {
+    font-family: 'Krona One', sans-serif;
+    margin: 40px 0;
+}
+
+main section .conteudo h1 strong {
+    color: #22D4FD;
+}
+
+main section .conteudo p {
+    font-size: 15px;
+    margin-bottom: 35px;
+}
+
+main section .botoes {
+    text-align: center;
+    display: grid;
+    gap: 15px;
+    max-width: 60%;
+    margin: 35px auto;
+}
+
+main section .botoes h4 {
+    font-family: 'Krona One', sans-serif;
+    font-weight: 200;
+}
+
+main section .botoes a {
+    color: white;
+    padding: 12px 0;
+    border: solid 1px #22D4FD;
+    border-radius: 7px;
+    transition: 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+main section .botoes a img {
+    width: 11%;
+}
+
+main section .botoes a:hover {
+    background-color: #151515;
+}
+
+main .minha-imagem {
+    width: 45%;
+    border-radius: 5%;
+    box-shadow: 15px -10px #22D4FD;
+}
+
+footer {
+    background-color: #22D4FD;
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    padding: 5px 0;
+}
